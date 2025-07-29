@@ -10,7 +10,7 @@
     <packaging>jar</packaging>
 
     <name>Rock Paper Scissors Game</name>
-    <description>A console Rock-Paper-Scissors game built with modern Java 21 as a coding exercise</description>
+    <description>A console Rock-Paper-Scissors game</description>
 
     <properties>
         <maven.compiler.release>21</maven.compiler.release>
